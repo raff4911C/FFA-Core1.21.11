@@ -1,0 +1,10 @@
+name: FFA-Core
+version: 1.0.0
+main: fr.raff.ffa.FFACore
+api-version: '1.21'
+commands:
+  kit:
+    description: Donne le kit FFA
+  kiteditor:
+    description: Edite le kit FFA
+    permission: op
